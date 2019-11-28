@@ -1,0 +1,23 @@
+body{
+    background: #18884D;
+    color: #CC2C50;
+    font-family: 'DM Serif Text', serif;
+    font-size: 27px;
+}
+
+footer{
+    font-size: 18px;
+    width: 100%;
+}
+
+@media(max-width: 768px){
+    body{
+        font-size: 18px;
+    }
+}
+
+@media(max-width: 576px){
+    body{
+        font-size: 14px;
+    }
+}
